@@ -37,24 +37,20 @@ def about_me():
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welersonfrr&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welersonfrr&theme=nightowl&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=welersonfrr&show_icons=true&theme=dracula&line_height=27" alt="**welersonfrr** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=welersonfrr&show_icons=true&theme=nightowl&line_height=27" alt="**welersonfrr** github stats"/>
 </a>
 
-[website]: https://welersonfrr.github.io/curriculo/
-[instagram]: https://www.instagram.com/tomazfrr/
-[linkedin]: https://www.linkedin.com/in/welerson-ferreira/
 <br>
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-
+<a href="https://welersonfrr.github.io/curriculo/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.instagram.com/tomazfrr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/welerson-ferreira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **welersonfrr/welersonfrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

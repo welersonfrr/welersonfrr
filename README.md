@@ -6,15 +6,19 @@ Gosto de criar ótimos softwares e resolver problemas.
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **WELERSON** {
- val name = "WELERSON FERREIRA"
- val acknowledgements = "FULL STACK WEB DEVELOPMENT"
- 
- val primarySkillset = "['Web_Design','UX/UI','Landing_Pages']"
- val languages = listOf("HTML", "CSS", "JavaScript", "Python", "AdvPl", "Dart") 
-
-}
+```python
+function about_me():
+    name = 'Welerson Ferreira'
+    hobbies = ['Play Valorant','Music','manga and anime']
+    acknowledgements = "WEB DEVELOPMENT"
+    primarySkillset = ['Web_Design','UX/UI','Landing_Pages']
+    languages = ['HTML','CSS','JavaScript','Python','AdvPl','Dart']
+    studying = 'Starter Full Stack Web Developer' # at Growdev
+    print(''' \n *** Experiences *** \n\n
+        1. Service desk at Infasa ind. de Farinhas SA \n
+        2. Control of Production and Service Provision at Infasa ind. de Farinhas SA \n
+    ''')
+    currentProject = 'GitHub and Versioning'
 ```
 
 ## **Linguagens e Ferramentas:**  

@@ -16,7 +16,8 @@ function about_me():
     studying = 'Starter Full Stack Web Developer' # at Growdev
     print(''' \n *** Experiences *** \n\n
         1. Service desk at Infasa ind. de Farinhas SA \n
-        2. Control of Production and Service Provision at Infasa ind. de Farinhas SA \n
+        2. Control of Production and Service Provision at 
+            Infasa ind. de Farinhas SA \n
     ''')
     currentProject = 'GitHub and Versioning'
 ```

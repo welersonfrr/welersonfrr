@@ -11,13 +11,11 @@ def about_me():
     name = 'Welerson Ferreira'
     hobbies = ['Play Valorant','Music','manga and anime']
     acknowledgements = "WEB DEVELOPMENT"
-    primarySkillset = ['Web_Design','UX/UI','Landing_Pages']
-    languages = ['HTML','CSS','JavaScript','Python','AdvPl','Dart']
+    primarySkillset = ['Web_Design','UX/UI','SQL']
+    languages = ['HTML','CSS','JavaScript','Python','AdvPl','Dart','SQL']
     studying = 'Starter Full Stack Web Developer' # at Growdev
-    print(''' \n *** Experiences *** \n\n
-        1. Service desk at Infasa ind. de Farinhas SA \n
-        2. Control of Production and Service Provision at 
-            Infasa ind. de Farinhas SA \n
+    print(''' \n *** Current Job *** \n\n
+        Full analyst at Belarina \n
     ''')
     currentProject = 'GitHub and Versioning'
 ```
